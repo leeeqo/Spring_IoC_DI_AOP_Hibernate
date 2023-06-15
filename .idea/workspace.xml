@@ -4,17 +4,72 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22577b73-33a8-4874-94ed-a1988b25341f" name="Changes" comment="" />
+    <list default="true" id="22577b73-33a8-4874-94ed-a1988b25341f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/applicationContext2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/applicationContext2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/applicationContext3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/applicationContext3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/myApp.properties" beforeDir="false" afterPath="$PROJECT_DIR$/resources/myApp.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/IoC_DI/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/IoC_DI/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/IoC_DI/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/IoC_DI/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/IoC_DI/MyConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/IoC_DI/MyConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/IoC_DI/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/IoC_DI/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/IoC_DI/Pet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/IoC_DI/Pet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/IoC_DI/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/IoC_DI/Test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/IoC_DI/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/IoC_DI/Test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/IoC_DI/Test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/IoC_DI/Test3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/IoC_DI/Test4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/IoC_DI/Test4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/IoC_DI/Test5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/IoC_DI/Test5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/IoC_DI/TestConfigAnnotations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/IoC_DI/TestConfigAnnotations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/IoC_DI/TestMyConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/IoC_DI/TestMyConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/IoC_DI/TestScope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/IoC_DI/TestScope.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aop/AbstractLibrary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aop/AbstractLibrary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aop/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aop/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aop/MyConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aop/MyConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aop/SchoolLibrary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aop/SchoolLibrary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aop/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aop/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aop/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aop/Test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aop/TestStudents.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aop/TestStudents.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aop/UniLibrary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aop/UniLibrary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aop/University.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aop/University.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aop/aspects/ExceptionHandlingAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aop/aspects/ExceptionHandlingAspect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aop/aspects/LoggingAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aop/aspects/LoggingAspect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aop/aspects/MyPointcuts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aop/aspects/MyPointcuts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aop/aspects/SecurityAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aop/aspects/SecurityAspect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/aop/aspects/UniversityLoggingAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/aop/aspects/UniversityLoggingAspect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hibernate/TestDelete.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hibernate/TestDelete.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hibernate/TestGet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hibernate/TestGet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hibernate/TestGetByQuery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hibernate/TestGetByQuery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hibernate/TestSave.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hibernate/TestSave.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hibernate/TestUpdate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hibernate/TestUpdate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hibernate/entity/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hibernate/entity/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hibernate/entity/HibernateUtilities_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hibernate/entity/HibernateUtilities_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hibernate_2/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hibernate_2/Test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hibernate_2/coco.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hibernate_2/entity/Detail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hibernate_2/entity/Detail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hibernate_2/entity/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hibernate_2/entity/Employee.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2QhTKwUOAY7myKRWl1u07Yri5GI" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -23,10 +78,112 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Admin/IdeaProjects/spring_course2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.30689654",
+    "settings.editor.selected.configurable": "configurable.group.editor",
+    "spring.configuration.checksum": "6a8ea580b44802aaaa331c5b9f7fd469",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\IdeaProjects\spring_course2\src\main\java\hibernate_2" />
+      <recent name="C:\Users\Admin\IdeaProjects\spring_course2\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\IdeaProjects\spring_course2\resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="spring_introduction_test" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="hibernate" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.aop.Test1">
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hibernate_2.Test1" />
+      <module name="spring_course2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hibernate_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDelete" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hibernate.TestDelete" />
+      <module name="spring_course2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hibernate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestGetByQuery" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hibernate.TestGetByQuery" />
+      <module name="spring_course2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hibernate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestUpdate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hibernate.TestUpdate" />
+      <module name="spring_course2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hibernate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aop.Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aop.Test1" />
+      <module name="spring_course2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="aop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.aop.Test1" />
+        <item itemvalue="Application.Test1" />
+        <item itemvalue="Application.TestDelete" />
+        <item itemvalue="Application.TestUpdate" />
+        <item itemvalue="Application.TestGetByQuery" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -35,8 +192,53 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1685804754715</updated>
-      <workItem from="1685804755767" duration="2000" />
+      <workItem from="1685804755767" duration="39457000" />
+      <workItem from="1685998578031" duration="3401000" />
+      <workItem from="1686127949092" duration="1072000" />
+      <workItem from="1686129043068" duration="1461000" />
+      <workItem from="1686130521842" duration="9383000" />
+      <workItem from="1686206557081" duration="25000" />
+      <workItem from="1686305359689" duration="17000" />
+      <workItem from="1686305474825" duration="1564000" />
+      <workItem from="1686318007346" duration="1414000" />
+      <workItem from="1686754265971" duration="927000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.UnsupportedClassVersionError" package="java.lang" />
+          <option name="timeStamp" value="4" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

@@ -1,6 +1,4 @@
-package spring_introduction;
-
-import org.springframework.stereotype.Component;
+package IoC_DI;
 
 //@Component("catBean")
 public class Cat implements Pet {

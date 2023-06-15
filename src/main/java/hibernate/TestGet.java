@@ -6,7 +6,7 @@ import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;
 
-public class Test2 {
+public class TestGet {
     public static void main(String[] args) {
 
         SessionFactory factory = new Configuration()
@@ -26,7 +26,7 @@ public class Test2 {
             session.beginTransaction();
             Employee currEmployee = (Employee) session.get(Employee.class, employee.getId());
             session.getTransaction().commit();
-            sou;
+            System.out.println(currEmployee);;
         }
         finally {
             factory.close();

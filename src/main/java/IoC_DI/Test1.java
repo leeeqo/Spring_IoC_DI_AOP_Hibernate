@@ -1,7 +1,4 @@
-package spring_introduction;
-
-import spring_introduction.Cat;
-import spring_introduction.Pet;
+package IoC_DI;
 
 public class Test1 {
     public static void main(String[] args) {

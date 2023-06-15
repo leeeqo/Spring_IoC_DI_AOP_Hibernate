@@ -1,4 +1,4 @@
-package spring_introduction;
+package IoC_DI;
 
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 

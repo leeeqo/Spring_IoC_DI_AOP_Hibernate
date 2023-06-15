@@ -1,4 +1,4 @@
-package spring_introduction;
+package IoC_DI;
 
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
@@ -9,8 +9,6 @@ public class TestScope {
 
         Dog dog = context.getBean("dogBean", Dog.class);
         dog.say();
-
-
 
     }
 }

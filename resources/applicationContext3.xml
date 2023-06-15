@@ -7,11 +7,7 @@
     http://www.springframework.org/schema/context
     http://www.springframework.org/schema/context/spring-context.xsd">
 
-    <bean id = "myPet"
-          class = "spring_introduction.Dog"
-          scope = "prototype"
-          init-method="init"
-          destroy-method="destroy">
-    </bean>
+    <context:component-scan base-package="IoC_DI"/>
+    <context:property-placeholder location="classpath:myApp.properties"/>
 
 </beans>

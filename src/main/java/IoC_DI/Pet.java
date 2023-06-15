@@ -1,4 +1,4 @@
-package spring_introduction;
+package IoC_DI;
 
 public interface Pet {
     public void say();

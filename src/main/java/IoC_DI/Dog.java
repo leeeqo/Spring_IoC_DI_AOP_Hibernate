@@ -1,6 +1,4 @@
-package spring_introduction;
-
-import org.springframework.stereotype.Component;
+package IoC_DI;
 
 import javax.annotation.PostConstruct;
 import javax.annotation.PreDestroy;

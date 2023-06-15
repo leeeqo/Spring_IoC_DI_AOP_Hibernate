@@ -1,2 +1,6 @@
-package aop;public class AbstractLibrary {
+package aop;
+
+public class AbstractLibrary {
+    public void getBook() {
+    }
 }
